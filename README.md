@@ -1,1 +1,1 @@
-# Начало практика работы с GitHub Actions
+# Начало практики работы с GitHub Actions
